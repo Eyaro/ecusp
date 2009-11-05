@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="miglayout-3.7.1-swt.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="classes"/>
+	<classpathentry kind="lib" path="utils.jar"/>
+	<classpathentry kind="lib" path="clojure-1.09.11.jar"/>
+	<classpathentry kind="lib" path="clojure-contrib-1.09.11.jar"/>
+	<classpathentry kind="lib" path="C:/Seth/java/miglayout-3.7.1-swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

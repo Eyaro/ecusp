@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: View
+Bundle-SymbolicName: ecusp;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: ecusp.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: .,
+ classes/,
+ clojure-1.09.11.jar,
+ clojure-contrib-1.09.11.jar,
+ utils.jar,
+ miglayout-3.7.1-swt.jar
